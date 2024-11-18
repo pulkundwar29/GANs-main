@@ -1,2 +1,2 @@
 # GANs
-Implementation of various Generative Adversarial Networks (GANs)
+Introductory implementation of two projects based on Generative Adversarial Networks (GANs)
